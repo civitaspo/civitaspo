@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Data Reliability Engineer having specialties of Distributed Processing, Data Engineering, and Big Data Processing. And I'm also committing some OSS projects like Embulk, Digdag, and so on.
+
 <!--
 **civitaspo/civitaspo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Career
+- 2020/06~ ZOZO Technologies, Inc.
+- 2017/10~2020/05 Gunosy Inc.
+- 2013/04~2017/09 DeNA Co.,Ltd.
+
+### Sponsor
+
+I'm looking for sponsors! => https://github.com/sponsors/civitaspo
