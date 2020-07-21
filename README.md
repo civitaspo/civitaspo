@@ -2,6 +2,8 @@
 
 I'm a Data Reliability Engineer having specialties of Distributed Processing, Data Engineering, and Big Data Processing. And I'm also committing some OSS projects like Embulk, Digdag, and so on.
 
+![civitaspo's github stats](https://github-readme-stats.vercel.app/api?username=civitaspo&show_icons=true)
+
 <!--
 **civitaspo/civitaspo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
