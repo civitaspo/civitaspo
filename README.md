@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 
 ### Career
-- 2020/06~ ZOZO Technologies, Inc.
+- 2022/01~Current Ubie, Inc.
+- 2021/10~2021/12 ZOZO, Inc.
+- 2020/06~2021/09 ZOZO Technologies, Inc.
 - 2017/10~2020/05 Gunosy Inc.
 - 2013/04~2017/09 DeNA Co.,Ltd.
 
